@@ -1,6 +1,7 @@
 # Convertidor-a-Runas-Antiguas
 Convertidor de Español a Runas Antiguas
 Este programa, desarrollado con Python y Tkinter, te permite traducir fácilmente cualquier texto en español a las antiguas runas vikingas, las cuales fueron utilizadas por los nórdicos durante la Era Vikinga. Además, hemos incorporado una función para copiar la traducción directamente al portapapeles con solo un clic. ¡Perfecto para aquellos interesados en la cultura y la historia de los vikingos!
+
 ![WhatsApp Image 2024-08-05 at 12 22 55](https://github.com/user-attachments/assets/f5c20fcf-b21b-4a73-bb1f-86d9428812ba)
 
 Características del Programa:
